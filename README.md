@@ -8,9 +8,12 @@ Greetings! I'm Amir Mohammadikarbalaei, a passionate data explorer on a mission 
 
 Dive into my data toolkit, where each tool serves a unique purpose:
 
-- **Python:** 🐍
-- **Power BI and Tableau:** 📊
-- **SQL:** 📝
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+- ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+- ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 - **EDA:** 🔍
 - **Regression/Classification:** 📈
 - **Clustering/Dimensionality Reduction:** 📉
@@ -18,7 +21,7 @@ Dive into my data toolkit, where each tool serves a unique purpose:
 - **Object Detection:** 🕵️
 - **Natural Language Processing:** 🗣️
 - **Large Language Models (LLMs):** 📚
-- **Containerizing with Docker:** 🐳
+- ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🤝 Let's Collaborate
 
