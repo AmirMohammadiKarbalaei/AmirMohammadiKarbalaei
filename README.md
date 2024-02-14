@@ -27,6 +27,7 @@ Join me on this exciting data-driven adventure! Connect through:
 - **LinkedIn:** [Amir Mohammadikarbalaei](https://www.linkedin.com/in/amir-mohammadikarbalaei-65b958193/)
 - **Portfolio:** [Amir Mohammadikarbalaei](https://amirmohammadikarbalaei.github.io/DataScience.github.io//)
 - **Email:** a.mohammadikarbalaei@gmail.com
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 
 <!--
