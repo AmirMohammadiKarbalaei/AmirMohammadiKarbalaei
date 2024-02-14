@@ -24,9 +24,9 @@ Dive into my data toolkit, where each tool serves a unique purpose:
 
 Join me on this exciting data-driven adventure! Connect through:
 
-- LinkedIn: <i class="fab fa-linkedin"></i> Amir Mohammadikarbalaei
-- Portfolio: <i class="fas fa-briefcase"></i> Amir Mohammadikarbalaei
-- Email: <i class="far fa-envelope"></i> a.mohammadikarbalaei@gmail.com
+- **LinkedIn:** [Amir Mohammadikarbalaei](https://www.linkedin.com/in/amir-mohammadikarbalaei-65b958193/)
+- **Portfolio:** [Amir Mohammadikarbalaei](https://amirmohammadikarbalaei.github.io/DataScience.github.io//)
+- **Email:** a.mohammadikarbalaei@gmail.com
 
 
 <!--
