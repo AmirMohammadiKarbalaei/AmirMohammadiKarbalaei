@@ -25,8 +25,11 @@ Dive into my data toolkit, where each tool serves a unique purpose:
 Join me on this exciting data-driven adventure! Connect through:
 
 - **LinkedIn:** [Amir Mohammadikarbalaei](https://www.linkedin.com/in/amir-mohammadikarbalaei-65b958193/)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/amir-mohammadikarbalaei-65b958193/))
+&nbsp;
 - **Portfolio:** [Amir Mohammadikarbalaei](https://amirmohammadikarbalaei.github.io/DataScience.github.io//)
 - **Email:** a.mohammadikarbalaei@gmail.com
+
 
 <!--
 **AmirMohammadiKarbalaei/AmirMohammadiKarbalaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
