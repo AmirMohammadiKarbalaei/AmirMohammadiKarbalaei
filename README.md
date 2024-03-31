@@ -1,5 +1,5 @@
 # Hi there 👋
-
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 # Welcome to my Data Playground 🚀
 
 Greetings! I'm Amir Mohammadikarbalaei, a passionate data explorer on a mission to uncover insights and drive innovation through the power of data science. Currently navigating the data universe as an Independent Data Scientist, I bring a blend of expertise, hands-on experience, and a proactive problem-solving approach to the table
@@ -37,6 +37,23 @@ Join me on this exciting data-driven adventure! Connect through:
 </a>
 <a href="mailto:a.mohammadikarbalaei@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <section id="contact">
+      <div class="container">
+          <div class="row">
+              <div class="col-lg-8 col-lg-offset-2 text-center">
+                  <h2 class="section-heading">Get In Touch!</h2>
+                  <hr class="primary">
+                  <div class="col-lg-2 col-lg-offset-3 text-center">
+                    <a href="https://github.com/AmirMohammadiKarbalaei" target="_blank" class="fa fa-github fa-3x wow bounceIn" style="visibility: visible; animation-name: bounceIn;"></a>
+                </div>
+                <div class="col-lg-2  text-center">
+                    <a href="https://www.linkedin.com/in/amir-mohammadikarbalaei-65b958193" target="_blank" class="fa fa-linkedin fa-3x wow bounceIn" style="visibility: visible; animation-name: bounceIn;"></a>
+                </div>
+                <div class="col-lg-2  text-center">
+                    <a href="mailto:a.mohammadikarbalaei@gmail.com" target="_blank" class="fa fa-envelope fa-3x wow bounceIn" style="visibility: visible; animation-name: bounceIn;"></a>
+                </div>
+          </div>
+      </div>
 
 
 
