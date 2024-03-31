@@ -39,21 +39,21 @@ Join me on this exciting data-driven adventure! Connect through:
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<div class="row">
-      <div class="col-lg-8 col-lg-offset-2 text-center">
-          <h2 class="section-heading">Get In Touch!</h2>
-          <hr class="primary">
-          <div class="col-lg-2 col-lg-offset-3 text-center">
-            <a href="https://github.com/AmirMohammadiKarbalaei" target="_blank" class="fa fa-github fa-3x wow bounceIn" style="visibility: visible; animation-name: bounceIn;"></a>
-        </div>
-        <div class="col-lg-2  text-center">
-            <a href="https://www.linkedin.com/in/amir-mohammadikarbalaei-65b958193" target="_blank" class="fa fa-linkedin fa-3x wow bounceIn" style="visibility: visible; animation-name: bounceIn;"></a>
-        </div>
-        <div class="col-lg-2  text-center">
-            <a href="mailto:a.mohammadikarbalaei@gmail.com" target="_blank" class="fa fa-envelope fa-3x wow bounceIn" style="visibility: visible; animation-name: bounceIn;"></a>
-        </div>
-  </div>
+
+      
+<h2 class="section-heading">Get In Touch!</h2>
+  <hr class="primary">
+  <div class="col-lg-2 col-lg-offset-3 text-center">
+    <a href="https://github.com/AmirMohammadiKarbalaei" target="_blank" class="fa fa-github fa-3x wow bounceIn" style="visibility: visible; animation-name: bounceIn;"></a>
 </div>
+<div class="col-lg-2  text-center">
+    <a href="https://www.linkedin.com/in/amir-mohammadikarbalaei-65b958193" target="_blank" class="fa fa-linkedin fa-3x wow bounceIn" style="visibility: visible; animation-name: bounceIn;"></a>
+</div>
+<div class="col-lg-2  text-center">
+    <a href="mailto:a.mohammadikarbalaei@gmail.com" target="_blank" class="fa fa-envelope fa-3x wow bounceIn" style="visibility: visible; animation-name: bounceIn;"></a>
+       
+  </div>
+
 
 
 
