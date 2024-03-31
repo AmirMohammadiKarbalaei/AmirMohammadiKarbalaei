@@ -38,23 +38,6 @@ Join me on this exciting data-driven adventure! Connect through:
 <a href="mailto:a.mohammadikarbalaei@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-      
-
-  
-<a href="https://github.com/AmirMohammadiKarbalaei" target="_blank" class="fa fa-github fa-3x wow bounceIn" style="visibility: visible; animation-name: bounceIn;"></a>
-
-<a href="https://www.linkedin.com/in/amir-mohammadikarbalaei-65b958193" target="_blank" class="fa fa-linkedin fa-3x wow bounceIn" style="visibility: visible; animation-name: bounceIn;"></a>
-
-<a href="mailto:a.mohammadikarbalaei@gmail.com" target="_blank" class="fa fa-envelope fa-3x wow bounceIn" style="visibility: visible; animation-name: bounceIn;"></a>
-       
-
-
-
-
-
-
 
 <!--
 **AmirMohammadiKarbalaei/AmirMohammadiKarbalaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
