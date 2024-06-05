@@ -38,5 +38,5 @@ Join me on this exciting data-driven adventure! Connect through:
 <a href="mailto:a.mohammadikarbalaei@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AmirMohammadiKarbalaei&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->****
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=AmirMohammadiKarbalaei&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
 
