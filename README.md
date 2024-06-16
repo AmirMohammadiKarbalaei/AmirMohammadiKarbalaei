@@ -28,6 +28,11 @@ Dive into my data toolkit, where each tool serves a unique purpose:
 ![Amirs's github stats](https://github-readme-stats.vercel.app/api?username=AmirMohammadiKarbalaei&show_icons=true&theme=dracula&hide=stars,issues)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMohammadiKarbalaei&theme=dracula&hide_progress=true)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirMohammadiKarbalaei&show_icons=true&theme=dracula&hide=stars,issues&custom_title=GitHub%20Stats" alt="Amir's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMohammadiKarbalaei&theme=dracula&hide_progress=true" alt="Top Languages" />
+</p>
+
 
 ## 🤝 Let's Collaborate
 
