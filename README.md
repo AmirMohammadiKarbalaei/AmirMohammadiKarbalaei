@@ -26,7 +26,7 @@ Dive into my data toolkit, where each tool serves a unique purpose:
 - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Amirs's github stats](https://github-readme-stats.vercel.app/api?username=AmirMohammadiKarbalaei&show_icons=true&theme=dracula&hide=stars,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMohammadiKarbalaei&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMohammadiKarbalaei&theme=dracula&hide_progress=true)
 
 
 ## 🤝 Let's Collaborate
