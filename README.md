@@ -28,7 +28,7 @@ Dive into my data toolkit, where each tool serves a unique purpose:
 <p align="center">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AmirMohammadiKarbalaei&show_icons=true&theme=dracula&hide=stars&rank_icon=github,issues" alt="Amir's github stats" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api?username=AmirMohammadiKarbalaei&rank_icon=github&show_icons=true&theme=dracula&hide=stars,issues" alt="Amir's github stats" height="200" />
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMohammadiKarbalaei&theme=dracula&hide_progress=true" alt="Top Langs" height="200" />
