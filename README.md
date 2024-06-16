@@ -25,13 +25,14 @@ Dive into my data toolkit, where each tool serves a unique purpose:
 - **Large Language Models (LLMs):** 📚
 - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![Amirs's github stats](https://github-readme-stats.vercel.app/api?username=AmirMohammadiKarbalaei&show_icons=true&theme=dracula&hide=stars,issues)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMohammadiKarbalaei&theme=dracula&hide_progress=true)
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirMohammadiKarbalaei&show_icons=true&theme=dracula&hide=stars,issues&custom_title=GitHub%20Stats" alt="Amir's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMohammadiKarbalaei&theme=dracula&hide_progress=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirMohammadiKarbalaei&show_icons=true&theme=dracula&hide=stars,issues" alt="Amir's github stats" />
+  <br />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50" height="50" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMohammadiKarbalaei&theme=dracula&hide_progress=true" alt="Top Langs" />
 </p>
+
 
 
 ## 🤝 Let's Collaborate
