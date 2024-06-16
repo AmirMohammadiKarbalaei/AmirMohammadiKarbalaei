@@ -25,6 +25,8 @@ Dive into my data toolkit, where each tool serves a unique purpose:
 - **Large Language Models (LLMs):** 📚
 - ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+![Amirs's github stats](https://github-readme-stats.vercel.app/api?username=AmirMohammadiKarbalaei&show_icons=true&theme=dracula&hide=stars,issues)
+
 ## 🤝 Let's Collaborate
 
 Join me on this exciting data-driven adventure! Connect through:
