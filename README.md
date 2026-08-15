@@ -171,7 +171,7 @@ Here's a peek into my toolkit, where each tool has its own unique role:
 
 
 
-
+<!--
 ## 📊 Github Stats
 
 <p align="center">
@@ -186,7 +186,7 @@ Here's a peek into my toolkit, where each tool has its own unique role:
       </td>
 </p>
 
-<!-- ## Contributions
+ ## Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmirMohammadiKarbalaei&theme=dracula" alt="Contribution Graph" />
